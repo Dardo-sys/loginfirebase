@@ -1,0 +1,4 @@
+#Tue Oct 06 18:43:21 ART 2020
+base.0=K\:\\pruebafirebase\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
